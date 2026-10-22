@@ -1,0 +1,9 @@
+# Cloned workshop repositories live next to each other in this folder (see setup.sh).
+# They are separate git repositories and are not tracked here.
+MLOps-Workshop/
+amharic-asr-mlops/
+HR_use-case/
+
+.venv/
+__pycache__/
+*.pyc
